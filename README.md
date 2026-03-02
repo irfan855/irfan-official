@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║         MOHAMMAD IRFAN  ·  CLOUD & DATA PLATFORM ARCHITECT   ║
+║         MOHAMMAD IRFAN  · CLOUD & DATABRICKS ADMINISTRATOR   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
