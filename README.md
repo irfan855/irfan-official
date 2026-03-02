@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Azure+%26+Databricks+Administrator;7%2B+Years+in+Cloud+%26+Big+Data;Infrastructure+as+Code+Enthusiast;Unity+Catalog+%7C+Terraform+%7C+CI%2FCD" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Irfan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Irfan-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/irfan-md-03ba7298/))
 [![Email](https://img.shields.io/badge/Gmail-irfaan.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfaan.official@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Hyderabad-India-brightgreen?style=for-the-badge)](https://github.com)
 
